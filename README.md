@@ -39,4 +39,4 @@ Place pieces randomly (R) or manually (M)? R
 
 ## Author
 
-mertkan iscan
+Mertkan İscan
