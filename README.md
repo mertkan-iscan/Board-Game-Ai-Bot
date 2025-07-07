@@ -18,16 +18,8 @@ This project requires a C compiler (such as gcc).
 Compile with:
 gcc main.c -o board-game-ai-bot
 
-csharp
-Copy
-Edit
-
 Run with:
 ./board-game-ai-bot
-
-pgsql
-Copy
-Edit
 
 ## Gameplay
 
@@ -44,10 +36,6 @@ Enter the number of pieces for Player 1 (X): 5
 Enter the number of pieces for Player 2 (O): 5
 Enter the maximum number of turns: 30
 Place pieces randomly (R) or manually (M)? R
-
-shell
-Copy
-Edit
 
 ## Author
 
